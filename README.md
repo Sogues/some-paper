@@ -6,6 +6,16 @@
   Accelerating Deep Network Training by Reducing Internal Covariate Shift
   <br>
   ----
+  <br>
+  <a href="http://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf">Dropout parer:</a>
+  A Simple Way to Prevent Neural Networks from Overfitting
+  <br>
+  ----
+  <br>
+  <a href="http://papers.nips.cc/paper/4882-dropout-training-as-adaptive-regularization.pdf">
+    Dropout Training as Adaptive Regularization</a>
+  <br>
+  ----
 </p>
 
 
