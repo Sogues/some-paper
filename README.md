@@ -17,8 +17,8 @@
   <br>
   ----
   <br>
-  <a href="https://arxiv.org/pdf/1310.4546.pdf">
-    Distributed Representations of Words and Phrases and their Compositionality</a>
+  <a href="https://arxiv.org/pdf/1310.4546.pdf">Hierarchical Softmax</a>
+    Distributed Representations of Words and Phrases and their Compositionality
   <br>
   ----
 
