@@ -16,6 +16,12 @@
     Dropout Training as Adaptive Regularization</a>
   <br>
   ----
+  <br>
+  <a href="https://arxiv.org/pdf/1310.4546.pdf">
+    Distributed Representations of Words and Phrases and their Compositionality</a>
+  <br>
+  ----
+
 </p>
 
 
